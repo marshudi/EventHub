@@ -1,3 +1,3 @@
-Event Hub
+<h1> Event Hub </h1>
 
 The Event Hub, is an online website, designed and developed for handling/managing events such as, food, business, and seminars etc. where the user picks out any event to attend. The user will have to register to the website, that they will have to fill their personal information so they can be able to login to view all the events in Oman. After the registration/login they can book for any event of their choice effective booking and management of event. Furthermore, there are modules for registration, login, searching, feedback, and the admin can update the details on the website, timely basis. Event Hub is a self-service ticketing platform for experiences that allows anyone to find and attend events. This website was designed and developed by UTAS Student.
